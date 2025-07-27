@@ -1,0 +1,26 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: brown;
+    font-size: 20px;
+    /* font-size: 50%; */
+}
+.green{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+.ntd{
+    background-color: lightgray;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px; 
+    /* bo vien goc border */
+    /* color: blueviolet; */
+}
