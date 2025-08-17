@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.sticky-demo {
+  position: relative;
+  background-color: #ff1212;
+}
+.sticky-container {
+  /* height: 200vh; Tăng chiều cao để cuộn */
+}
+
+.sticky-box {
+  position: sticky;
+  top: 0px; /* Cố định cách mép trên 20px */
+  background-color: orange;
+  padding: 10px;
+}
+.content {
+  height: 200px;
+}
